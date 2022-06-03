@@ -1,0 +1,118 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php/$1 [L]
+
+#menu pages
+Redirect /mumbai-escorts.html /mumbai-escorts
+Redirect /mumbai-call-girls.html /mumbai-call-girls
+Redirect /private-girl.html /private-girls
+Redirect /adult-room.html /adult-room
+Redirect /escorts-location.html /escorts-location
+Redirect /escorts-category.html /escorts-category
+Redirect /escorts-videos.html /escorts-videos
+Redirect /callgirl-phone-number.html /callgirl-phone-number
+
+#profile32 url
+
+Redirect /profile/marina.html /escorts/marina/61
+Redirect /profile/sweta.html /escorts/sweta/62
+Redirect /profile/alina.html /escorts/alina/63
+Redirect /profile/ammy.html /escorts/ammy/64
+Redirect /profile/anjali.html /escorts/anjali/65
+Redirect /profile/ankita.html /escorts/ankita/66
+Redirect /profile/bhoomika.html /escorts/bhoomika/67
+Redirect /profile/dipika.html /escorts/dipika/68
+Redirect /profile/kavya.html /escorts/kavya/69
+Redirect /profile/kavya.html /escorts/kavya/69
+Redirect /profile/kirtika.html /escorts/kirtika/70
+Redirect /profile/lovely.html /escorts/lovely/71
+Redirect /profile/mithali.html /escorts/mithali/72
+Redirect /profile/monika.html /escorts/monika/73
+Redirect /profile/priya.html /escorts/priya/74
+Redirect /profile/priyanka.html /escorts/priyanka/75
+Redirect /profile/roshini.html /escorts/roshini/76 
+Redirect /profile/sonali.html /escorts/sonali/77
+Redirect /profile/trisha.html /escorts/trisha/78
+Redirect /profile/nidhi.html /escorts/nidhi/79
+Redirect /profile/sonia.html /escorts/sonia/80
+Redirect /profile/arshi.html /escorts/arshi/81
+Redirect /profile/bandagi.html /escorts/bandagi/82
+Redirect /profile/luci.html /escorts/luci/83
+Redirect /profile/saheen.html /escorts/saheen/84
+Redirect /profile/shruti.html /escorts/shruti/85
+Redirect /profile/latina.html /escorts/latina/86
+Redirect /profile/jvnne.html /escorts/jvnne/87
+Redirect /profile/asylum.html /escorts/asylum/88
+Redirect /profile/rani.html /escorts/asylum/89
+Redirect /profile/tamanna.html /escorts/tamanna/90
+Redirect /profile/sandhya.html /escorts/sandhya/91
+Redirect /profile/feihung.html /escorts/feihung/92
+
+#location27 url
+Redirect /location/andheri.html /location/andheri/2
+Redirect /location/bandra.html /location/bandra/4
+Redirect /location/juhu.html /location/juhu/6
+Redirect /location/south-mumbai.html /location/south-mumbai/8
+Redirect /location/powai.html /location/powai/9
+Redirect /location/goregaon.html /location/goregaon/10
+Redirect /location/navi-mumbai.html /location/navi-mumbai/11
+Redirect /location/worli.html /location/worli/12
+Redirect /location/lower-parel.html /location/lower-parel/13
+Redirect /location/chembur.html /location/chembur/14
+Redirect /location/nerul.html /location/nerul/15
+Redirect /location/borivali.html /location/borivali/16
+Redirect /location/kurla.html /location/kurla/18
+Redirect /location/wadala.html /location/wadala/19
+Redirect /location/dadar.html /location/dadar/20
+Redirect /location/byculla.html /location/byculla/21
+Redirect /location/thane.html /location/thane/22
+Redirect /location/colaba.html /location/colaba/23
+Redirect /location/bhiwadi.html /location/bhiwadi/24
+Redirect /location/miraroad.html /location/mira-road/25
+Redirect /location/kandivali.html /location/kandivali/26
+Redirect /location/malad.html /location/malad/27
+Redirect /location/lokhandwala.html /location/lokhandwala/28
+Redirect /location/kalyan.html /location/kalyan/29
+Redirect /location/bhayandar.html /location/bhayandar/30
+Redirect /location/chandannagar.html /location/chandannagar/31
+Redirect /location/kopargaon.html /location/kopargaon/32
+
+#category37 url
+Redirect /category/new-escorts.html /escorts-type/new-escorts/27
+Redirect /category/one-night-stand.html /escorts-type/one-night-stand/28
+Redirect /category/threesome.html /escorts-type/threesome/29
+Redirect /category/women-seeking-men.html /escorts-type/women-seeking-men/30
+Redirect /category/busty-girls.html /escorts-type/busty-girls/31
+Redirect /category/party-girls.html /escorts-type/party-girls/32
+Redirect /category/girlfriend-experience.html /escorts-type/girlfriend-experience/33
+Redirect /category/dating-girls.html /escorts-type/dating-girls/34
+Redirect /category/vip-girls.html /escorts-type/vip-girls/35
+Redirect /category/massage-girls.html /escorts-type/massage-girls/36
+Redirect /category/call-girls.html /escorts-type/call-girls/37
+Redirect /category/18+-teenage-escorts.html /escorts-type/teenage-escorts/38
+Redirect /category/young-girls.html /escorts-type/young-escorts/39
+Redirect /category/strip-clubs.html /escorts-type/strip-club/40
+Redirect /category/call-aunties.html /escorts-type/call-aunties/41
+Redirect /category/foreigner-girls.html /escorts-type/foreigner-escorts/42
+Redirect /escorts-type/celebrity-escort-in-mumbai.html /escorts-type/celebrity-escorts/43
+Redirect /escorts-type/mumbai-call-girls-whatsapp-number.html /escorts-type/mumbai-call-girls-whatsapp-number/44
+Redirect /escorts-type/arab-escort-girl-in-mumbai.html /escorts-type/arab-escorts-girl-in-mumbai/45
+Redirect /escorts-type/mumbai-muslim-call-girls.html /escorts-type/mumbai-muslim-call-girls/46
+Redirect /escorts-type/phone-sex-mumbai-escorts.html /escorts-type/phone-sex-mumbai-escorts/47
+Redirect /escorts-type/kerala-call-girls-in-mumbai.html /escorts-type/kerala-call-girls-mumbai/48
+Redirect /escorts-type/marathi-call-girl-in-mumbai.html /escorts-type/marathi-call-girls-mumbai/49
+Redirect /escorts-type/cheap-rate-call-girl-in-mumbai.html /escorts-type/cheap-rate-call-girls-mumbai/50
+Redirect /escorts-type/sex-massage-in-mumbai.html /escorts-type/sex-massage-in-mumbai/51
+Redirect /escorts-type/indian-anal-girl-escorts-in-mumbai.html /escorts-type/indian-anal-girl-escorts-in-mumbai/52
+Redirect /escorts-type/north-indian-girls-sex-videos.html /escorts-type/north-indian-girls-sex-videos/53
+Redirect /escorts-type/housewife-escorts-in-mumbai.html /escorts-type/housewife-escorts-in-mumbai/54
+Redirect /escorts-type/mumbai-sexy-aunty-number.html /escorts-type/mumbai-sexy-aunty-number/55
+Redirect /escorts-type/prostitute-numbers-near-me.html /escorts-type/prostitute-numbers-near-me/56
+Redirect /escorts-type/indian-call-girl.html /escorts-type/indian-call-girls/57
+Redirect /escorts-type/call-girlfriend-number.html /escorts-type/call-girlfriend-number/58
+Redirect /escorts-type/escort-service-near-me.html /escorts-type/escort-service-near-me/59
+Redirect /escorts-type/mumbai-randi-number.html /escorts-type/mumbai-randi-number/60
+Redirect /escorts-type/male-escort-job-in-mumbai.html /escorts-type/male-escort-job-in-mumbai/61
+Redirect /escorts-type/mumbai-hotel-sex.html /escorts-type/mumbai-hotel-sex/62
+Redirect /escorts-type/red-light-area-in-mumbai-price.html /escorts-type/red-light-area-in-mumbai-price/63

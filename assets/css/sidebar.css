@@ -1,0 +1,50 @@
+.panel{
+  background: #2725269e;
+  border: solid 4px #0d0d0d0f;
+  padding: 6px;
+  
+}
+.button-panel .big-button {
+  margin-bottom: 20px;
+  text-align: left;
+  padding: 10px;
+  display: flex;
+    align-items: flex-end;
+    align-content: stretch;
+}
+.big-button {
+  display: block;
+  background: #ad670c;
+  color: #000;
+  font-size: 16px;
+  letter-spacing: .5px;
+  font-weight: 600;
+  text-align: center;
+  padding: 10px 20px;
+  border-radius: 4px!important;
+
+}
+a.big-button {
+  color: #3a3a3a;
+  background: #fff;
+}
+.panel>:first-child {
+  margin-top: 0;
+}
+.blue{
+  background-color: #2ba6cb !important;
+  color: #fff !important;
+}
+.blue:hover{
+  background-color: #f8be0b !important;
+  color:#000 !important;
+}
+.social-icon a{
+  color: #fff;
+    font-size: 30px;
+    padding: 8px;
+}
+#block_281{
+  background-color: #2725269e;
+  padding: 9px;
+}
